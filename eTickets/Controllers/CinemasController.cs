@@ -14,7 +14,7 @@ namespace eTickets.Controllers
         public IActionResult Index()
         {
             var data = _context.Cinemas.ToList();
-            return View();
+            return View(data);
         }
     }
 }
