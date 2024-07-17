@@ -3,6 +3,7 @@ You will be able to add items to your card, pay using PayPal and also log in as 
 
 
 Key features:
+
 📌 Admin Panel
 - Add, Update Movies
 - Add, Update, Delete Actors
