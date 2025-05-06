@@ -1,5 +1,5 @@
 This application is an eCommerce application used to buy movies online from different cinemas.
-You will be able to add items to your card, pay using PayPal and also log in as an administrator to add new cinemas, actors, producers, and movies.
+You will be able to add items to your cart, and also log in as an administrator to add new cinemas, actors, producers, and movies.
 ![image](https://github.com/user-attachments/assets/e14ab10b-ea49-4106-93c2-5f6c95626c7a)
 
 
@@ -17,6 +17,5 @@ Key features:
 - Search for a Movie
 - View movie details
 - Add a movie to a Cart
-- Buy movies with Paypal
 - Update profile
 - View your orders
